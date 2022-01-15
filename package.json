@@ -20,5 +20,12 @@
   "dependencies": {
     "@wdio/reporter": "^7.16.13",
     "tesults": "^1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/tesults/wdio-tesults-reporter"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
