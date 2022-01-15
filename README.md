@@ -1,4 +1,4 @@
-# @wdio/tesults-reporter
+# wdio-tesults-reporter
 
 Tesults (https://www.tesults.com) reporter for WebdriverIO (https://webdriver.io/)
 
@@ -8,7 +8,7 @@ Report WebdriverIO test results data with Tesults using this reporter.
 
 ## Installation
 
-`npm install @wdio/tesults-reporter --save`
+`npm install wdio-tesults-reporter --save`
 
 ## Documentation
 
@@ -20,7 +20,7 @@ support@tesults.com
 
 ## License
 
-Distributed under the terms of the MIT license, "@wdio/tesults-reporter" is free and open source software
+Distributed under the terms of the MIT license, "wdio-tesults-reporter" is free and open source software
 
 ## Issues
 
