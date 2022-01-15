@@ -1,0 +1,24 @@
+{
+  "name": "@wdio/tesults-reporter",
+  "version": "1.0.0",
+  "description": "WebdriverIO Tesults Reporter",
+  "main": "wdio-tesults-reporter.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wdio-plugin",
+    "wdio-reporter",
+    "wdio",
+    "webdriverio",
+    "tesults",
+    "test",
+    "reporting"
+  ],
+  "author": "Tesults",
+  "license": "MIT",
+  "dependencies": {
+    "@wdio/reporter": "^7.16.13",
+    "tesults": "^1.1.3"
+  }
+}
