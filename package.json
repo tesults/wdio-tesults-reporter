@@ -1,5 +1,5 @@
 {
-  "name": "@wdio/tesults-reporter",
+  "name": "wdio-tesults-reporter",
   "version": "1.0.0",
   "description": "WebdriverIO Tesults Reporter",
   "main": "wdio-tesults-reporter.mjs",
